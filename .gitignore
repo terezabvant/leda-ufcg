@@ -1,0 +1,20 @@
+# Compilados e binários
+*.class
+bin/
+build/
+target/
+
+# IDEs e VS Code
+.vscode/
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+
+# Arquivos ZIP
+*.zip
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
